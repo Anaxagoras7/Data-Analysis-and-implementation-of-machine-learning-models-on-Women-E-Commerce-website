@@ -1,5 +1,5 @@
 # Data-Sentiment-Analysis-NLP-ML-models-implementation-on-Ecommerce-website-dataset
-
+## Part of Indian Institute of Technology-Roorkee(IIT-R) Cognizance Summer Internship Program
 This project consists of a dataset from Ecommerce Website consisting of following:
   - Data Cleaning & Visualization
   - Percentages of Good and Bad Classes
@@ -29,3 +29,4 @@ Inference:
     Age group of above 70 didn't care much about the online rating, which is mostly because they are old.
     The age group of 15-20 which are teenagers cared less about rating the products and also the feedback
     didn't back their shopping choices.
+    
